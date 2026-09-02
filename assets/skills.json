@@ -1,0 +1,12 @@
+{
+  "title": "Shailendra's Skill Radar",
+  "axes": [
+    { "label": "Python", "value": 78 },
+    { "label": "FastAPI", "value": 72 },
+    { "label": "JavaScript", "value": 68 },
+    { "label": "React", "value": 58 },
+    { "label": "C / C++", "value": 70 },
+    { "label": "DSA", "value": 65 },
+    { "label": "Backend APIs", "value": 72 }
+  ]
+}
