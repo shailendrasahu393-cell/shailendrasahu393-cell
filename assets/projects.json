@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "GPA-CGPA-Calculator",
+      "description": "A full-stack GPA/CGPA Calculator with a dynamic HTML, CSS & JavaScript frontend and FastAPI backend. Supports multiple semesters, dynamic course inputs, GPA/CGPA calculation, validation, and API-based integration."
+    },
+    {
+      "repo": "portfolio",
+      "description": "A high-performance, dark-themed digital portfolio built with React & Vite, featuring cinematic scroll animations, interactive elements, and optimized asset delivery."
+    },
+    {
+      "repo": "tct",
+      "description": "A full-stack college computer training platform designed to provide students with centralized access to lab resources, coding problems, and useful learning links."
+    },
+    {
+      "repo": "ROCK-PAPER-SCISSORS-",
+      "description": "A classic Rock-Paper-Scissors game implemented entirely in the C programming language."
+    }
+  ]
+}
