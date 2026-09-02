@@ -47,7 +47,7 @@ I enjoy building applications, understanding how systems work behind the scenes,
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,html,css,c,cpp,sqlite,git,github,vscode,postman,linux&perline=8" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,react,html,css,c,cpp,firbase,git,github,vscode&perline=8" alt="tech stack">
 
 </div>
 
