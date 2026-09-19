@@ -123,8 +123,6 @@ I enjoy building applications, understanding how systems work behind the scenes,
 
 <br><br>
 
-<img src="assets/metrics.achievements.svg" width="90%" alt="achievements">
-
 </div>
 
 ---
